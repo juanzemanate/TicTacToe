@@ -27,6 +27,8 @@ Se desarrolló como práctica de programación web usando **Java**, **JSP** y **
 2. Despliega la aplicación en tu servidor de aplicaciones.
 3. Abre en el navegador la URL correspondiente (ejemplo: `http://localhost:8080/TicTacToe`).
 
-## 👤 Autor
+## 👤 Autores
+- **karolocoro**
+- 📧 karolocoro@unicauca.edu.co
 - **juanzemanate**  
 - 📧 juanjzemanate@unicauca.edu.co
