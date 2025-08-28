@@ -15,7 +15,6 @@ Se desarrolló como práctica de programación web usando **Java**, **JSP** y **
 ## 🖼 Ejemplo de interfaz
 ![Ejemplo del juego](docs/captura.png)
 
-> ⚠️ Asegúrate de guardar una captura de tu juego en la carpeta `docs` con el nombre **`captura.png`** para que esta imagen se muestre correctamente en GitHub.
 
 ## 🛠 Requisitos
 - Java 17+ (o la versión que uses).
