@@ -8,10 +8,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tic Tac Toe</title>
+<title>juego de triki</title>
 </head>
 <body>
-<h1>Tic Tac Toe</h1>
+<h1>juego de triki</h1>
 <table border="10">
 <c:forEach var="line" items="${gameBean.gridLines}">
 <tr>
@@ -41,7 +41,7 @@
 </c:forEach>
 </table>
 <c:if test="${winner != null}">
-<h2>${winner} Won!</h1>
+<h2>${winner} Ganaste!</h1>
 <form action="index.jsp" method="post">
 <input type="submit" name="Replay" value="Jugar Otra Vez"><br/>
 </form>
